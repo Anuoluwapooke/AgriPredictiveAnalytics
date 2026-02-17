@@ -19,6 +19,7 @@ The goal is to show how predictive analytics can support farmers and AgriTech st
 ---
 
 ## Folder Structure
+
 AgriPredictiveAnalytics/
 │
 ├─ notebooks/
