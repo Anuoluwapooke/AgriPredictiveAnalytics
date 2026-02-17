@@ -21,11 +21,11 @@ The goal is to show how predictive analytics can support farmers and AgriTech st
 ## Folder Structure
 
 AgriPredictiveAnalytics/
-│
-├─ notebooks/
+
+├─ notebooks
 │ ├─ exploratory_analysis.ipynb
 │ └─ cleaning_and_prediction.ipynb
-├─ datasets/
+├─ datasets
 │ └─ agri_predictive_dataset_final.csv
 └─ README.md
 
