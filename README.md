@@ -23,8 +23,8 @@ The goal is to show how predictive analytics can support farmers and AgriTech st
 AgriPredictiveAnalytics/
 │
 ├─ notebooks/
-│ ├─ week1_exploratory_analysis.ipynb
-│ └─ week2_3_cleaning_and_prediction.ipynb
+│ ├─ exploratory_analysis.ipynb
+│ └─ cleaning_and_prediction.ipynb
 ├─ datasets/
 │ └─ agri_predictive_dataset_final.csv
 └─ README.md
